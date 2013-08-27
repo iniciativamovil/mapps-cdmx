@@ -1,0 +1,16 @@
+CREATE TABLE tb_sistemas (id_sistema INTEGER PRIMARY KEY, nombre NVARCHAR(50), descripcion NVARCHAR(100), imagen NVARCHAR(100), mapa NVARCHAR(100), estatus BOOLEAN);
+CREATE INDEX idx_sistemas ON tb_sistemas(id_sistema);
+CREATE TABLE tb_clases (id_clase INTEGER PRIMARY KEY, nombre NVARCHAR(50),descripcion NVARCHAR(100), imagen NVARCHAR(100));
+CREATE INDEX idx_clases ON tb_clases(id_clase);
+CREATE TABLE tb_propiedades (id_propiedad INTEGER PRIMARY KEY, id_clase INTEGER, nombre NVARCHAR(50), descripcion NVARCHAR(100), imagen NVARCHAR(50), estatus BOOLEAN, FOREIGN KEY(id_clase) REFERENCES tb_clases(id_clase));
+CREATE INDEX idx_propiedades ON tb_propiedades(id_propiedad, id_clase);
+CREATE TABLE tb_nodos (id_nodo INTEGER PRIMARY KEY, id_sistema INTEGER , nombre NVARCHAR(50), descripcion NVARCHAR(100), entradas INTEGER, ventanillas INTEGER, coordenadaX FLOAT,coordenadaY FLOAT, imagen NVARCHAR(100), mapa nvarchar(100), interseccion BOOLEAN, estatus BOOLEAN, FOREIGN KEY(id_sistema) REFERENCES tb_sistemas(id_sistema));
+CREATE INDEX idx_nodos ON tb_nodos(id_nodo, id_sistema);
+CREATE TABLE tb_referencias (id_referencia INTEGER PRIMARY KEY, id_nodo INTEGER, des_corta NVARCHAR(100), des_larga NVARCHAR(100), FOREIGN KEY (id_nodo) REFERENCES tb_nodos(id_nodo));
+CREATE INDEX idx_referencias ON tb_referencias(id_referencia, id_nodo);
+CREATE TABLE tb_grupos (id_grupo INTEGER PRIMARY KEY, id_nodo_ta INTEGER, id_nodo_tb INTEGER, nombre NVARCHAR(50), descripcion NVARCHAR(100), imagen NAVARCHAR(50), estatus BOOLEAN, FOREIGN KEY (id_nodo_ta) REFERENCES tb_nodos(id_nodo), FOREIGN KEY (id_nodo_tb) REFERENCES tb_nodos(id_nodo));
+CREATE INDEX idx_grupos ON tb_grupos(id_grupo, id_nodo_ta, id_nodo_tb);
+CREATE TABLE tb_adyacencias(id_nodo_ini INTEGER, id_nodo_final INTEGER, id_grupo INTEGER, posicion INTEGER, distancia INTEGER, tiempo INTEGER, FOREIGN KEY (id_nodo_ini) REFERENCES tb_nodos(id_nodo), FOREIGN KEY (id_nodo_final) REFERENCES tb_nodos(id_nodo), FOREIGN KEY (id_grupo) REFERENCES tb_grupos(id_grupo));
+CREATE INDEX idx_adyacencias ON tb_adyacencias(id_nodo_ini, id_nodo_final, id_grupo);
+CREATE TABLE tb_asignaciones (id_propiedad INTEGER, id_nodo INTEGER, id_grupo INTEGER, descripcion NVARCHAR(100), estatus BOOLEAN, FOREIGN KEY (id_propiedad) REFERENCES tb_propiedades(id_propiedad), FOREIGN KEY (id_nodo) REFERENCES tb_nodos(id_nodo), FOREIGN KEY (id_grupo) REFERENCES tb_grupos(id_grupo));
+CREATE INDEX idx_asignaciones ON tb_asignaciones(id_propiedad, id_nodo, id_grupo);

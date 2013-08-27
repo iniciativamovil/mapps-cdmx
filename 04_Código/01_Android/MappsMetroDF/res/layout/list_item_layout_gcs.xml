@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearRowResultado"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bgresultado_activo"
+    android:gravity="center"
+    android:orientation="horizontal" >
+    <TextView android:id="@+id/txtNoResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:padding="10sp"
+        android:textSize="30sp"
+        android:text="1"
+        android:gravity="center"
+        android:focusable="false"
+        android:textColor="#FFF"/>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:gravity="left"
+        android:focusable="false"
+        android:orientation="vertical" >
+	    <ImageView
+	        android:id="@+id/imgRelog"
+	        android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+	        android:src="@drawable/reloj_activo" />
+		<TextView
+		    android:id="@+id/txtTiempos"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:singleLine="false"
+		    android:text="2 Min		  1 Estaciones	  0 Transbordos"
+		    android:textColor="#FFF"
+		    android:textSize="7sp"
+			android:paddingTop="10sp"
+			android:paddingBottom="10sp"
+		    android:textStyle="bold" />
+	</LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:focusable="false"
+        android:orientation="vertical" >
+	     <TextView
+	         android:id="@+id/txtRutaCorto"
+	         android:layout_width="fill_parent"
+	         android:layout_height="fill_parent"
+	         android:singleLine="false"
+			 android:padding="10sp"
+	         android:text="Parte de la ruta."
+	         android:textColor="#FFF"
+	         android:textSize="13sp" />
+    </LinearLayout>
+</LinearLayout>

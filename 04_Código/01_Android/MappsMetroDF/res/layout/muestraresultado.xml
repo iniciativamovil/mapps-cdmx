@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ResultView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000"
+    android:orientation="vertical" >
+    <include layout="@layout/titlebar" />
+    <TextView
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:background="#222"
+		android:textColor="#ddd"
+		android:textSize="10sp"
+		android:textStyle="bold"
+		android:text="Toque un resultado para ver la ruta en el mapa y escucharlo." />
+	<LinearLayout
+	    android:id="@+id/linearLayout0"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical"
+	    android:layout_weight="1">
+   	    <ListView
+	        android:id="@+id/listView1"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:divider="@drawable/headerbg"
+	        android:dividerHeight="2sp">
+	        <!-- Preview: listitem=@layout/list_item_layout_gcs -->
+	        <requestFocus>0</requestFocus>
+	    </ListView>
+		<TextView
+	        android:layout_width="fill_parent"
+	        android:layout_height="20sp"
+	        android:background="@drawable/headerbg"/>
+		<LinearLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="80sp"
+		    android:orientation="horizontal" >
+		    <LinearLayout
+			    android:id="@+id/linearVerRuta"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+			    android:layout_weight="1"
+			    android:layout_gravity="bottom"
+			    android:gravity="bottom"
+			    android:addStatesFromChildren="true"
+			    android:background="@drawable/resultadoselector"
+			    android:orientation="vertical">
+			    <ImageButton
+			        android:id="@+id/botonVerRuta"
+			        android:layout_width="fill_parent"
+			        android:layout_height="fill_parent"
+			        android:layout_weight="1"
+			        android:layout_gravity="bottom"
+			        android:gravity="center"
+			        android:padding="10sp"
+			        android:scaleType="centerInside"
+			        android:src="@drawable/verrutaselector"
+			        android:background="@drawable/none"/>
+			    <TextView
+			        android:id="@+id/textVerRuta"
+			        android:layout_width="fill_parent"
+			        android:layout_height="30sp"
+			        android:gravity="center"
+			        android:textSize="13px"
+					android:textColor="#ddd"
+					android:textStyle="bold"
+					android:text="Ver en Mapa" />
+			</LinearLayout>
+			<LinearLayout
+			    android:id="@+id/linearEscucharRuta"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+			    android:layout_weight="1"
+			    android:layout_gravity="bottom"
+			    android:addStatesFromChildren="true"
+			    android:gravity="bottom"
+			    android:background="@drawable/resultadoselector"
+			    android:orientation="vertical" >
+			    <ImageButton
+			        android:id="@+id/botonEscucharRuta"
+			        android:layout_width="fill_parent"
+			        android:layout_height="fill_parent"
+			        android:layout_gravity="bottom"
+			        android:layout_weight="1"
+			        android:background="@drawable/none"
+			        android:gravity="center"
+			        android:padding="10sp"
+			        android:scaleType="centerInside"
+			        android:src="@drawable/escucharselector" />
+			    <TextView
+			        android:id="@+id/textEscucharRuta"
+			        android:layout_width="fill_parent"
+			        android:layout_height="30sp"
+			        android:gravity="center"
+			        android:textSize="13px"
+					android:textColor="#ddd"
+					android:textStyle="bold"
+					android:text="Escuchar" />
+			</LinearLayout>
+			<LinearLayout
+			    android:id="@+id/linearCompartir"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+			    android:layout_weight="1"
+			    android:addStatesFromChildren="true"
+			    android:background="@drawable/resultadoselector"
+			    android:orientation="vertical" >
+			    <ImageButton
+			        android:id="@+id/botonCompartir"
+			        android:layout_width="fill_parent"
+			        android:layout_height="fill_parent"
+			        android:layout_weight="1"
+			        android:background="@drawable/none"
+			        android:gravity="center"
+			        android:padding="10sp"
+			        android:scaleType="fitCenter"
+			        android:src="@drawable/compartirselector" />
+			    <TextView
+			        android:id="@+id/textCompartir"
+			        android:layout_width="fill_parent"
+			        android:layout_height="30sp"
+			        android:gravity="center"
+			        android:textSize="13px"
+					android:textColor="#ddd"
+			        android:textStyle="bold"
+					android:text="Compartir" />
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

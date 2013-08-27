@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bggris" 
+    android:padding="10sp">
+    <ImageView
+        android:id="@+id/imageSplashSal1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="3"
+        android:src="@drawable/none" />
+    <TextView
+        android:id="@+id/textdeveloped"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="  Developed By:  "
+        android:textColor="#000"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <ImageView
+        android:id="@+id/imageSplashLogo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="20sp"
+        android:layout_weight="3"
+        android:scaleType="fitEnd"
+        android:src="@drawable/logo_mapps_vertical_orig" />
+
+    <TextView
+        android:id="@+id/textdespedida1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="3"
+        android:text="Muchas gracias por utilizar MetroDF."
+        android:textColor="#000"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="right|top" />
+	<TextView
+        android:id="@+id/textdespedida2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="3"
+        android:text="Vuelve Pronto."
+        android:textColor="#000"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="center" />
+	<ImageView
+        android:id="@+id/imageSplashSal3"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="3"
+        android:background="@drawable/none"
+        android:gravity="bottom" >
+    </ImageView>
+</LinearLayout>

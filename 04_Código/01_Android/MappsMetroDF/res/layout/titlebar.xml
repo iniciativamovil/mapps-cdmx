@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="40sp"
+    android:orientation="horizontal" 
+    android:background="@drawable/headerbg">
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="6"
+        android:layout_marginLeft="4sp"
+        android:src="@drawable/headerlogo" />
+    <AutoCompleteTextView
+        android:id="@+id/textBusqueda"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="4"
+        android:textSize="10sp"
+        android:textColor="#333"
+        android:layout_margin="4sp"
+        android:hint="¿Que buscas? Av, Pizza, Lugar...">
+    </AutoCompleteTextView>
+    <ImageButton
+        android:id="@+id/botonBusqueda"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/lupa"
+        android:background="@drawable/none"
+        android:padding="2sp"
+        android:layout_weight="8"
+        android:layout_marginRight="4sp"
+        android:scaleType="centerInside">
+        <requestFocus>1</requestFocus>
+      </ImageButton>
+</LinearLayout>

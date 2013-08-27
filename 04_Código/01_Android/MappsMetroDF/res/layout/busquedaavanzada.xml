@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="#FFF"
+    android:gravity="top">
+    <LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="40sp"
+	    android:orientation="horizontal" 
+	    android:background="@drawable/headerbg">
+	    <ImageView
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:src="@drawable/headerlogo" />
+	</LinearLayout>
+    <LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" 
+	    android:background="@drawable/headerbg">
+		<AutoCompleteTextView
+	        android:id="@+id/textBusquedaAvanzada"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:layout_weight="1"
+	        android:hint="¿Que buscas? Av, Pizza, Lugar...">
+		</AutoCompleteTextView>
+		<ImageButton
+		    android:id="@+id/botonBusquedaAvanzada"
+		    android:layout_width="fill_parent"
+        	android:layout_height="fill_parent"
+        	android:src="@drawable/lupa"
+        	android:background="@drawable/none"
+        	android:paddingRight="5sp"
+        	android:layout_weight="6"
+        	android:scaleType="centerInside">
+         	<requestFocus>0</requestFocus>
+         </ImageButton>
+	</LinearLayout>
+	<TextView
+	    android:id="@+id/textTipoBusqueda"
+	    android:layout_width="fill_parent"
+	    android:layout_height="40sp"
+	    android:gravity="center|right"
+	    android:textColor="#DDD"
+	    android:textStyle="normal"
+	    android:padding="5sp"
+	    android:text="Mas Opciones..."
+	    android:background="@drawable/bgtab_inactivo"
+	    android:textAppearance="?android:attr/textAppearanceMedium" />
+	<LinearLayout
+	    android:id="@+id/listSeleccionables"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_weight="1"
+	    android:orientation="horizontal">
+		<ListView 
+			android:id="@+id/listClasesSeleccion"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_weight="2"
+			android:choiceMode="multipleChoice"
+			android:divider="@drawable/headerbg"
+			android:dividerHeight="2sp"
+			android:background="#000">
+			<!-- Preview: 
+			    listheader=@android:layout/simple_list_item_2
+			    listitem=@android:layout/simple_list_item_checked
+			 -->
+		</ListView>
+		<ImageView 
+		    android:layout_width="3sp"
+			android:layout_height="fill_parent"
+			android:background="#FFF"/>
+		<ListView
+		    android:id="@+id/listGruposSeleccion"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:layout_weight="2"
+		    android:choiceMode="multipleChoice"
+		    android:divider="@drawable/headerbg"
+		    android:dividerHeight="2sp"
+		    android:background="#000">
+			<!-- Preview: 
+			    listheader=@android:layout/simple_list_item_1
+			    listitem=@android:layout/simple_list_item_checked
+			 -->
+		</ListView>
+	</LinearLayout>
+	<ListView
+	    android:id="@+id/listResultadoBusqueda"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_weight="1"
+	    android:divider="@drawable/headerbg"
+	    android:dividerHeight="2sp"
+	    android:background="#000">
+		<!-- Preview: 
+		    listheader=@android:layout/simple_list_item_1
+		    listitem=@layout/list_item_image_gcs
+		 -->
+	</ListView>
+</LinearLayout>

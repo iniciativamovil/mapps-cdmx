@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AppMetroActivity!</string>
+    <string name="Regresa">Regresa</string>
+    <string name="RutasEncontradas">tituloResultados</string>
+    <string name="activityResultados">Rutas Encontradas</string>
+    <string name="mapas">Sistema de Transporte (Mapas)</string>
+    <string name="mainTitulo">MetroDF</string>
+    <string name="appName">Mapps MetroDF</string>
+
+</resources>
