@@ -7,5 +7,6 @@
     <string name="topPadding">Top Padding dinámico</string>
     <string name="logoLaunch">Logo de la aplicación para arranque</string>
     <string name="animaciontren">Animación del metro moviendose</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
 
 </resources>

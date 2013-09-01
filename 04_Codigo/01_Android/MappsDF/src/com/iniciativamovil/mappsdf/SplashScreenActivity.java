@@ -2,6 +2,7 @@ package com.iniciativamovil.mappsdf;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.drawable.AnimationDrawable;
 import android.view.Menu;
 import android.view.Window;
@@ -37,7 +38,7 @@ public class SplashScreenActivity extends Activity {
 	            	sleep (_splashTime);
 	                System.gc();
 	                finish ();
-	                //iniciaActividad();
+	                iniciaActividad();
 	        		this.interrupt();
 	        	    finish ();
 	            } catch ( InterruptedException e ) {
@@ -62,5 +63,10 @@ public class SplashScreenActivity extends Activity {
 	    finish ();
 		super.finish ();
 	}
+	
+	public void iniciaActividad(){
+		 startActivity( new Intent ( this, MainMenuActivity.class));
+	 }
+
 
 }
