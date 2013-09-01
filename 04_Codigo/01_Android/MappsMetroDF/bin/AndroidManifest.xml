@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="appMetro.origDestino"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="7" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:label="@string/appName" android:theme="@android:style/Theme.Black.NoTitleBar" android:icon="@drawable/application_icon_1">
+        <activity
+            android:label="@string/appName"
+            android:name="appMetro.activityMetro.ActivitySplashScreen" android:screenOrientation="portrait">
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="appMetro.activityMetro.ActivityResultado"     android:windowSoftInputMode="stateHidden" android:screenOrientation="portrait" android:label="@string/activityResultados" ></activity>
+        <activity android:name="appMetro.activityMetro.ActivityMapa"          android:windowSoftInputMode="stateHidden" ></activity>
+        <activity android:name="appMetro.activityMetro.ActivityMapaBarrio"    android:windowSoftInputMode="stateHidden" ></activity>
+        <activity android:name="appMetro.activityMetro.MenuMapasActivity"     android:windowSoftInputMode="stateHidden" android:screenOrientation="portrait" android:label="@string/mapas" ></activity>
+        <activity android:name="appMetro.activityMetro.ActivityTrazaMapa"     android:windowSoftInputMode="stateHidden" android:label="@string/RutasEncontradas"></activity>
+        <activity android:name="appMetro.activityMetro.ActivityRutaMain"      android:windowSoftInputMode="stateHidden" android:screenOrientation="portrait"></activity>
+        <activity android:name="appMetro.activityMetro.ActivityMuestraLista"  android:windowSoftInputMode="stateHidden" android:screenOrientation="portrait"></activity>
+        <activity android:name="appMetro.activityMetro.ActivityDescripcion"   android:windowSoftInputMode="stateHidden" android:screenOrientation="portrait"></activity>
+        <activity android:name="appMetro.activityMetro.AppMetroActivity"      android:windowSoftInputMode="stateHidden" android:screenOrientation="portrait"></activity>
+        <activity android:name="appMetro.activityMetro.ActivityListaNodoInfo" android:windowSoftInputMode="stateHidden"></activity>
+        <activity android:name="appMetro.activityMetro.ActivityReferencias"   android:windowSoftInputMode="stateHidden"></activity>
+        <activity android:name="appMetro.activityMetro.ActivityBusqueda"      android:windowSoftInputMode="stateHidden" android:screenOrientation="portrait"></activity>
+        <activity android:name="appMetro.activityMetro.ActivitySpashSalida"   android:windowSoftInputMode="stateHidden" android:label="@string/mainTitulo" ></activity>
+    </application>
+
+</manifest>
