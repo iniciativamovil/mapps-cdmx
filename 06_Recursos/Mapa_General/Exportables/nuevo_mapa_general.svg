@@ -889,6 +889,15 @@
 		1698.898,2777.191 1724.961,2764.734 1738.551,2759.066 1752.141,2752.271 1758.944,2750.002 1765.739,2746.609 1791.794,2735.279 
 		1806.527,2728.484 1807.661,2713.75 	"/>
 	
+		<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#E8E8E8" stroke-width="10" stroke-linecap="square" stroke-linejoin="bevel" stroke-miterlimit="10" stroke-dasharray="12" points="
+		2422.818,2532.484 2418.292,2529.092 2413.756,2524.557 2410.363,2522.287 2405.826,2517.762 2404.693,2515.492 2402.434,2512.091 
+		2401.301,2509.833 2399.031,2506.429 2395.63,2499.637 2393.362,2496.232 2392.236,2493.966 2389.969,2491.706 2388.835,2489.439 
+		2384.3,2484.902 2379.772,2481.509 2376.37,2476.974 2358.244,2458.849 2354.852,2454.32 2343.521,2442.99 2340.119,2440.722 
+		2338.984,2437.32 2334.457,2433.927 2332.189,2431.66 2328.788,2429.392 2323.127,2423.73 2319.726,2421.463 2316.332,2418.062 
+		2316.332,2412.4 2317.467,2410.131 2318.591,2408.998 2318.591,2407.873 2320.858,2403.336 2320.858,2398.801 2323.127,2394.275 
+		2323.127,2392.006 2324.261,2389.737 2326.529,2387.48 2326.529,2385.211 2328.788,2382.942 2328.788,2379.55 2329.922,2377.283 
+		2331.056,2376.147 2331.056,2372.746 	"/>
+	
 		<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#DBDBDB" stroke-width="10" stroke-linecap="square" stroke-linejoin="bevel" stroke-miterlimit="10" points="
 		601.114,2667.303 606.774,2693.356 623.775,2709.224 631.704,2717.152 622.641,2716.019 621.508,2719.421 622.641,2722.813 
 		626.043,2726.216 629.435,2728.484 630.57,2730.742 629.435,2733.011 624.909,2731.877 621.508,2733.011 619.239,2734.144 
@@ -930,13 +939,7 @@
 		2461.338,2624.256 2461.338,2621.987 2463.605,2619.721 2464.74,2617.452 2468.142,2614.059 2470.4,2609.523 2472.668,2608.389 
 		2474.937,2603.862 2477.204,2601.594 2478.33,2599.327 2480.598,2595.934 2481.731,2594.799 2482.865,2592.532 2486.268,2589.131 
 		2479.463,2582.336 2474.937,2580.066 2472.668,2577.807 2470.4,2574.405 2464.74,2569.87 2457.945,2564.208 2452.275,2559.673 
-		2445.48,2552.878 2438.686,2548.352 2422.818,2532.484 2418.292,2529.092 2413.756,2524.557 2410.363,2522.287 2405.826,2517.762 
-		2404.693,2515.492 2402.434,2512.091 2401.301,2509.833 2399.031,2506.429 2395.63,2499.637 2393.362,2496.232 2392.236,2493.966 
-		2389.969,2491.706 2388.835,2489.439 2384.3,2484.902 2379.772,2481.509 2376.37,2476.974 2358.244,2458.849 2354.852,2454.32 
-		2343.521,2442.99 2340.119,2440.722 2338.984,2437.32 2334.457,2433.927 2332.189,2431.66 2328.788,2429.392 2323.127,2423.73 
-		2319.726,2421.463 2316.332,2418.062 2316.332,2412.4 2317.467,2410.131 2318.591,2408.998 2318.591,2407.873 2320.858,2403.336 
-		2320.858,2398.801 2323.127,2394.275 2323.127,2392.006 2324.261,2389.737 2326.529,2387.48 2326.529,2385.211 2328.788,2382.942 
-		2328.788,2379.55 2329.922,2377.283 2331.056,2376.147 2331.056,2372.746 	"/>
+		2445.48,2552.878 2438.686,2548.352 2422.818,2532.484 	"/>
 	
 		<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#E8E8E8" stroke-width="5" stroke-linecap="square" stroke-linejoin="bevel" stroke-miterlimit="10" points="
 		601.114,2667.303 543.344,2659.373 538.807,2660.508 527.476,2660.508 517.279,2653.704 504.824,2652.578 493.483,2662.774 
@@ -1765,6 +1768,23 @@
 		2500.883,2249.141 2497.317,2256.281 2493.771,2263.431 2497.317,2267.006 2497.317,2270.571 2497.317,2277.711 2493.771,2281.286 
 		2490.206,2284.852 2483.056,2281.286 2479.51,2292.011 2475.945,2299.151 2472.361,2302.717 2468.795,2309.866 2468.795,2313.432 
 		2465.23,2317.007 2458.1,2334.852 2454.534,2334.852 2454.534,2338.427 	"/>
+	
+		<polyline fill="none" stroke="#DBDBDB" stroke-width="10" stroke-linecap="square" stroke-linejoin="bevel" stroke-miterlimit="10" points="
+		2559.558,2264.527 2563.167,2264.527 2566.795,2268.165 2570.442,2268.165 2574.071,2271.793 2581.326,2275.431 2581.326,2271.793 
+		2595.839,2279.059 2599.467,2279.059 2603.094,2279.059 2613.979,2282.697 2617.626,2282.697 2617.626,2286.325 2621.254,2289.963 
+		2624.863,2289.963 2628.491,2293.611 2639.394,2297.239 2653.926,2304.504 2657.534,2304.504 2661.162,2308.142 2668.438,2308.142 
+		2672.046,2308.142 2679.322,2311.78 2686.559,2315.408 2704.718,2319.046 2715.602,2319.046 2722.858,2322.674 2726.486,2322.674 
+		2733.742,2326.312 2737.37,2333.578 2744.646,2333.578 2762.786,2337.206 2773.67,2333.578 2770.042,2355.385 2766.414,2359.023 
+		2762.786,2362.651 2759.158,2362.651 2751.883,2369.917 2744.646,2373.565 2741.018,2377.193 2730.134,2417.18 2730.134,2420.808 
+		2719.23,2420.808 2715.602,2409.884 2711.974,2417.18 2708.346,2420.808 2701.09,2428.064 2697.462,2435.34 2690.187,2438.968 
+		2682.95,2446.243 2679.322,2457.147 2675.675,2464.423 2668.438,2471.679 2661.162,2471.679 2653.926,2471.679 2650.278,2471.679 
+		2646.65,2471.679 2639.394,2475.307 2639.394,2478.955 2635.766,2482.583 2635.766,2489.858 2628.491,2493.486 2621.254,2500.762 
+		2617.626,2504.39 2610.351,2504.39 2599.467,2504.39 2592.23,2504.39 2588.583,2504.39 2581.326,2504.39 2577.679,2508.018 
+		2574.071,2511.666 2566.795,2515.294 2563.167,2515.294 2559.558,2518.922 2548.655,2522.57 2545.046,2526.198 2545.046,2529.845 
+		2541.399,2526.198 2541.399,2529.845 2537.771,2529.845 2537.771,2533.454 2523.259,2540.729 2519.631,2540.729 2519.631,2544.377 
+		2515.983,2533.454 2505.099,2522.57 2505.099,2518.922 2497.863,2511.666 2494.234,2508.018 2490.587,2511.666 2486.959,2518.922 
+		2483.35,2526.198 2479.722,2529.845 2476.075,2537.101 2472.447,2533.454 2468.819,2529.845 2465.191,2529.845 2447.051,2533.454 
+		2443.423,2533.454 2436.167,2533.454 2421.635,2529.845 	"/>
 </g>
 <g id="delegaciones">
 	<text transform="matrix(1 0 0 1 1945.8623 3491.2793)" fill="#E6E6E6" font-family="'MyriadPro-Regular'" font-size="56.5471">MILPAALTA</text>
@@ -1776,6 +1796,8 @@
 	
 		<text transform="matrix(1.1429 0 0 1 2102.9668 2780.5918)" fill="#E6E6E6" font-family="'MyriadPro-Regular'" font-size="49.4787">TLAHÚAC</text>
 	<text transform="matrix(1.1429 0 0 1 1897.915 2487.1699)" fill="#E6E6E6" font-family="'MyriadPro-Regular'" font-size="49.4787">IZTAPALAPA</text>
+	
+		<text transform="matrix(1.1429 0 0 1 2496.3059 2407.7075)" fill="#E6E6E6" font-family="'MyriadPro-Regular'" font-size="49.4787">La Paz</text>
 	
 		<text transform="matrix(1.1429 0 0 1 1433.8018 2591.5938)" fill="#E6E6E6" font-family="'MyriadPro-Regular'" font-size="49.4787">COYOACAN</text>
 	<text transform="matrix(1.1429 0 0 1 1118.2515 2380.4082)"><tspan x="0" y="0" fill="#E6E6E6" font-family="'MyriadPro-Regular'" font-size="49.4787">ALVARO</tspan><tspan x="-19.123" y="59.374" fill="#E6E6E6" font-family="'MyriadPro-Regular'" font-size="49.4787">OBREGON</tspan></text>
@@ -1831,8 +1853,8 @@
 	<text transform="matrix(0.2353 -0.9719 0.9719 0.2353 1453.7913 2135.3457)" font-family="'ArialNarrow'" font-size="13.4042">Chapultepec</text>
 	<text transform="matrix(1 0 0 1 1469.9448 2111.3389)" font-family="'ArialNarrow'" font-size="13.4042">Sevilla</text>
 	<text transform="matrix(1 0 0 1 1800.8105 2113.3198)" font-family="'ArialNarrow'" font-size="13.4042">Balbuena</text>
-	<text transform="matrix(1 0 0 1 1815.624 2131.7617)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Blvd. Pto.</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Aéreo</tspan></text>
-	<text transform="matrix(1 0 0 1 1852.4199 2153.6628)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Gómez</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Farías</tspan></text>
+	<text transform="matrix(1 0 0 1 1840.1318 2125.5803)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Blvd. Pto.</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Aéreo</tspan></text>
+	<text transform="matrix(1 0 0 1 1869.9011 2145.2188)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Gómez</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Farías</tspan></text>
 	<text transform="matrix(1 0 0 1 1891.7061 2171.4971)" font-family="'ArialNarrow'" font-size="13.4042">Zaragoza</text>
 	<text transform="matrix(0.1012 -0.9949 0.9949 0.1012 1610.8038 2229.3384)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Isabel la</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Católica</tspan><tspan x="0" y="22" font-family="'ArialNarrow'" font-size="13.4042">M8 MB4</tspan></text>
 	<text transform="matrix(1 0 0 1 1320.0474 2247.1904)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">1</text>
@@ -1862,10 +1884,6 @@
 	<path fill="#006EB3" d="M1614.086,2474.681h-5.862v9.156h9.154v-5.863C1617.378,2476.149,1615.91,2474.681,1614.086,2474.681"/>
 	<path fill="#006EB3" d="M1639.539,2505.816h-12.391v19.352h19.348v-12.392C1646.496,2508.921,1643.393,2505.816,1639.539,2505.816"
 		/>
-	<g>
-		<path fill="#B19A59" d="M1615.015,2422.806h9.155v-5.862c0-0.834-0.307-1.594-0.813-2.173L1615.015,2422.806z"/>
-		<path fill="#006EB3" d="M1615.015,2422.806v-9.156h5.863c0.989,0,1.876,0.434,2.479,1.121L1615.015,2422.806z"/>
-	</g>
 	<text transform="matrix(1 0 0 1 1265.0474 1955.2271)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">2</text>
 	<text transform="matrix(1 0 0 1 1635.1489 2522.812)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">2</text>
 	<text transform="matrix(1 0 0 1 1178.5586 1952.0903)" font-family="'ArialNarrow'" font-size="13.4042">Cuatro Caminos</text>
@@ -1873,12 +1891,11 @@
 	<text transform="matrix(1 0 0 1 1360.3809 1939.415)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Tacuba</text>
 	<text transform="matrix(1 0 0 1 1486.3701 2000.8848)" font-family="'ArialNarrow'" font-size="13.4042">Sn.Cosme</text>
 	<text transform="matrix(1 0 0 1 1651.2876 2044.0724)" font-family="'ArialNarrow'" font-size="13.4042">Zócalo</text>
-	<text transform="matrix(0.421 -0.9071 0.9071 0.421 1647.3417 2223.354)" font-family="'ArialNarrow'" font-size="13.4042">Viaducto</text>
+	<text transform="matrix(0.421 -0.9071 0.9071 0.421 1647.3217 2223.313)" font-family="'ArialNarrow'" font-size="13.4042">Viaducto</text>
 	<text transform="matrix(1 0 0 1 1641.8994 2298.3296)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Villa de</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Cortés</tspan></text>
 	<text transform="matrix(1 0 0 1 1637.4961 2330.8696)" font-family="'ArialNarrow'" font-size="13.4042">Nativitas</text>
 	<text transform="matrix(1 0 0 1 1630.8223 2379.4087)" font-family="'ArialNarrow'" font-size="13.4042">Portales</text>
 	<text transform="matrix(1 0 0 1 1620.127 2484.2583)" font-family="'ArialNarrow'" font-size="13.4042">General Anaya</text>
-	<text transform="matrix(1 0 0 1 1575.46 2422.4146)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Ermita</text>
 	<text transform="matrix(1 0 0 1 1654.8555 2032.2001)" font-family="'ArialNarrow'" font-size="13.4042">Allende</text>
 	<text transform="matrix(1 0 0 1 1478.9761 1986.6416)" font-family="'ArialNarrow'" font-size="13.4042">Normal</text>
 	<text transform="matrix(0.7904 -0.6126 0.6126 0.7904 1433.8019 1932.8369)" font-family="'ArialNarrow'" font-size="13.4042">Cuitláhuac</text>
@@ -1900,15 +1917,10 @@
 	<path fill="#889338" d="M1466.061,2550.303h-5.863v9.156h9.155v-5.863C1469.352,2551.771,1467.884,2550.303,1466.061,2550.303"/>
 	<path fill="#889338" d="M1501.414,2580.324h-12.393v19.352h19.35v-12.392C1508.371,2583.429,1505.268,2580.324,1501.414,2580.324"
 		/>
-	<g>
-		<path fill="#B19A59" d="M1494.119,2361.346h9.155v-5.863c0-0.834-0.307-1.594-0.814-2.172L1494.119,2361.346z"/>
-		<path fill="#889338" d="M1494.119,2361.346v-9.156h5.863c0.99,0,1.875,0.433,2.478,1.121L1494.119,2361.346z"/>
-	</g>
 	<text transform="matrix(1 0 0 1 1493.3784 2597.1704)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">3</text>
 	<text transform="matrix(0.9999 -0.0115 0.0115 0.9999 1567.3243 2139.7102)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Niños</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Héroes</tspan></text>
 	<text transform="matrix(0.646 0.7633 -0.7633 0.646 1542.767 2276.0359)" font-family="'ArialNarrow'" font-size="13.4042">Eugenia</text>
 	<text transform="matrix(0.7756 0.6313 -0.6313 0.7756 1536.6008 2308.8359)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">División</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">del Norte</tspan></text>
-	<text transform="matrix(0.9998 -0.0216 0.0216 0.9998 1506.3632 2363.416)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Zapata</text>
 	<text transform="matrix(0.9998 -0.0216 0.0216 0.9998 1470.6962 2414.2441)" font-family="'ArialNarrow'" font-size="13.4042">Coyoacán</text>
 	<text transform="matrix(0.9998 -0.0216 0.0216 0.9998 1456.6962 2461.0635)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Viveros /</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Derechos Humanos</tspan></text>
 	<text transform="matrix(0.9998 -0.0216 0.0216 0.9998 1449.1571 2503.3975)" font-family="'ArialNarrow'" font-size="13.4042">Miguel Ángel de Quevedo</text>
@@ -1924,10 +1936,6 @@
 	<path fill="#A8C8BF" d="M1752.132,1887.649h-5.863v9.155h9.154v-5.862C1755.423,1889.118,1753.954,1887.649,1752.132,1887.649"/>
 	<path fill="#A8C8BF" d="M1735.732,1969.037h-5.862v9.155h9.154v-5.862C1739.024,1970.506,1737.556,1969.037,1735.732,1969.037"/>
 	<path fill="#A8C8BF" d="M1711.186,2139.23h-5.863v9.155h9.154v-5.862C1714.477,2140.699,1713.008,2139.23,1711.186,2139.23"/>
-	<g>
-		<path fill="#4C3430" d="M1704.182,2186.811h9.155v-5.863c0-0.834-0.307-1.594-0.813-2.172L1704.182,2186.811z"/>
-		<path fill="#A8C8BF" d="M1704.182,2186.811v-9.156h5.863c0.99,0,1.876,0.433,2.479,1.121L1704.182,2186.811z"/>
-	</g>
 	<text transform="matrix(0.9497 0.313 -0.313 0.9497 1648.5944 2143.7605)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">San Antonio</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Abad</tspan></text>
 	<g>
 		<text transform="matrix(1 0 0 1 1767.5349 1843.4048)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Talismán</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Metro L4</tspan><tspan x="0" y="22" font-family="'ArialNarrow'" font-size="13.4042">MetroBus L5</tspan></text>
@@ -1935,7 +1943,6 @@
 	<text transform="matrix(1 0 0 1 1757.3281 1896.8701)" font-family="'ArialNarrow'" font-size="13.4042">Bondojito</text>
 	<text transform="matrix(1 0 0 1 1731.8701 1958.1158)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Canal</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">del Norte</tspan></text>
 	<text transform="matrix(1 0 0 1 1704.1821 2155.2517)" font-family="'ArialNarrow'" font-size="13.4042">Fray Servando</text>
-	<text transform="matrix(1 0 0 1 1713.3369 2182.2324)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Jamaica</text>
 	<text transform="matrix(1 0 0 1 1793.624 1801.9561)"><tspan x="0" y="0" font-family="'ArialNarrow-Bold'" font-size="13.4042">Martín</tspan><tspan x="0" y="11" font-family="'ArialNarrow-Bold'" font-size="13.4042">Carrera</tspan></text>
 	<g>
 		<path fill="#A8C8BF" d="M1707.111,2079.966h9.155v-5.862c0-0.834-0.307-1.593-0.813-2.173L1707.111,2079.966z"/>
@@ -2034,8 +2041,8 @@
 <g id="metro7">
 	
 		<path opacity="0.5" fill="none" stroke="#DB963E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M1329.601,1678.921c0,0,2.601,35.837,29,53.458c26.399,17.621,26.288,45.688,26.843,52.155s0.072,62.76,0.072,62.76l17.186,43.516
-		l0.995,37.902l0.11,59.709l-6.595,65.237l-3.415,49.171l8.26,51.203l19.62,53.577c0,0-5.181,43.652-6.929,63.521
+		M1329.601,1678.921c0,0,2.601,35.837,29,53.458s26.288,45.688,26.843,52.155s0.072,62.76,0.072,62.76l17.186,43.516l0.995,37.902
+		l0.11,59.709l-6.595,65.237l-3.415,49.171l8.26,51.203l19.62,53.577c0,0-5.181,43.652-6.929,63.521
 		c-1.748,19.869-6.83,41.071-6.83,41.071l-5.216,33.89l0.514,48.184l-2.582,21.668"/>
 	<path fill="#DB963E" d="M1359.887,1727.801h-5.863v9.156h9.155v-5.862C1363.179,1729.271,1361.71,1727.801,1359.887,1727.801"/>
 	<path fill="#DB963E" d="M1387.689,1785.494h-5.863v9.156h9.155v-5.862C1390.981,1786.963,1389.512,1785.494,1387.689,1785.494"/>
@@ -2045,7 +2052,7 @@
 	<path fill="#DB963E" d="M1395.314,2095.574h-5.863v9.156h9.155v-5.862C1398.606,2097.044,1397.137,2095.574,1395.314,2095.574"/>
 	<path fill="#DB963E" d="M1416.033,2267.529h-5.863v9.156h9.155v-5.862C1419.325,2268.999,1417.856,2267.529,1416.033,2267.529"/>
 	<path fill="#DB963E" d="M1409.099,2307.624h-5.863v9.156h9.155v-5.862C1412.391,2309.093,1410.922,2307.624,1409.099,2307.624"/>
-	<path fill="#DB963E" d="M1403.954,2403.974h-12.393v19.352h19.35v-12.392C1410.911,2407.078,1407.807,2403.974,1403.954,2403.974"
+	<path fill="#DB963E" d="M1403.954,2403.974h-12.393v19.352h19.349v-12.392C1410.911,2407.078,1407.807,2403.974,1403.954,2403.974"
 		/>
 	<text transform="matrix(1 0 0 1 1395.918 2420.8198)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">7</text>
 	<g>
@@ -2073,10 +2080,10 @@
 		<text transform="matrix(1 0 0 1 1352.5573 2058.6577)" font-family="'ArialNarrow'" font-size="13.4042">Polanco</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 1344.3807 2104.5442)" font-family="'ArialNarrow'" font-size="13.4042">Auditorio</text>
+		<text transform="matrix(1 0 0 1 1344.3809 2104.5442)" font-family="'ArialNarrow'" font-size="13.4042">Auditorio</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 1323.6011 2152.3726)" font-family="'ArialNarrow'" font-size="13.4042">Constituyentes</text>
+		<text transform="matrix(1 0 0 1 1323.601 2152.3726)" font-family="'ArialNarrow'" font-size="13.4042">Constituyentes</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 1349.5571 2267.502)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">San Pedro</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">de los Pinos</tspan></text>
@@ -2085,23 +2092,16 @@
 		<text transform="matrix(1 0 0 1 1342.3809 2315.7798)" font-family="'ArialNarrow'" font-size="13.4042">San Antonio</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 1353.5573 2351.7349)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Mixcoac</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 1344.2239 2412.228)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Barranca</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">del Muerto</tspan></text>
-	</g>
-	<g>
-		<path fill="#B19A59" d="M1398.236,2351.734h9.155v-5.863c0-0.834-0.307-1.594-0.814-2.172L1398.236,2351.734z"/>
-		<path fill="#DB963E" d="M1398.236,2351.734v-9.156h5.863c0.99,0,1.876,0.433,2.478,1.121L1398.236,2351.734z"/>
+		<text transform="matrix(1 0 0 1 1338.2239 2412.228)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Barranca</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">del Muerto</tspan></text>
 	</g>
 </g>
 <g id="metro8">
 	
 		<path opacity="0.5" fill="none" stroke="#008B65" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M1638.244,1990.069l-3.912,39.449l-6.628,34.172l-4.577,32.491l-3,29.93l-1.578,32.499c0,0-7.102,16.128,32.425,15.417
-		s39.896,22.623,39.896,22.623l19.889,18.178c0,0,40.2,5.574,42.47,16.123s9.771,41.156,9.771,41.156l9.139,33.498l6.956,46.13
-		L1777,2397c0,0-23.928,57,46.786,48.5l50.439-5.76c0,0,17.236-8.74,39.256,13.76c22.02,22.5,40.352,30.758,40.352,30.758
-		S1972.5,2501,2005.5,2498.5"/>
+		c39.526-0.71,39.896,22.623,39.896,22.623l19.889,18.178c0,0,40.2,5.574,42.47,16.123s9.771,41.156,9.771,41.156l9.139,33.498
+		l6.956,46.13L1777,2397c0,0-23.928,57,46.786,48.5l50.439-5.76c0,0,17.236-8.74,39.256,13.76
+		c22.02,22.5,40.352,30.758,40.352,30.758S1972.5,2501,2005.5,2498.5"/>
 	<path fill="#3E984C" d="M1629.314,2059.574h-5.863v9.156h9.155v-5.862C1632.606,2061.044,1631.137,2059.574,1629.314,2059.574"/>
 	<path fill="#3E984C" d="M1622.26,2117.436h-5.863v9.156h9.155v-5.862C1625.552,2118.905,1624.083,2117.436,1622.26,2117.436"/>
 	<path fill="#3E984C" d="M1620.834,2154.445h-5.863v9.156h9.155v-5.862C1624.126,2155.915,1622.658,2154.445,1620.834,2154.445"/>
@@ -2113,38 +2113,77 @@
 	<path fill="#3E984C" d="M1875.808,2435.162h-5.863v9.156h9.155v-5.862C1879.1,2436.632,1877.631,2435.162,1875.808,2435.162"/>
 	<path fill="#3E984C" d="M1914.474,2448.263h-5.863v9.156h9.155v-5.862C1917.766,2449.732,1916.298,2448.263,1914.474,2448.263"/>
 	<path fill="#3E984C" d="M1954.141,2478.681h-5.863v9.156h9.155v-5.862C1957.433,2480.15,1955.964,2478.681,1954.141,2478.681"/>
-	<path fill="#3E984C" d="M2011.134,2487.17h-12.393v19.352h19.35v-12.392C2018.091,2490.274,2014.988,2487.17,2011.134,2487.17"/>
+	<path fill="#3E984C" d="M2011.135,2487.17h-12.393v19.352h19.35v-12.392C2018.092,2490.274,2014.988,2487.17,2011.135,2487.17"/>
 	<text transform="matrix(1 0 0 1 2003.0988 2504.0161)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">8</text>
 	<text transform="matrix(0.9774 -0.2115 0.2115 0.9774 1608.8043 2059.8928)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Sn. Juan</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">de Letrán</tspan></text>
-	<text transform="matrix(0.2638 -0.9646 0.9646 0.2638 1611.8033 2160.0469)" font-family="'ArialNarrow'" font-size="13.4042">Doctores</text>
-	<text transform="matrix(0.6617 -0.7498 0.7498 0.6617 1604.0408 2189.7737)" font-family="'ArialNarrow'" font-size="13.4042">Obrera</text>
-	<text transform="matrix(0.9989 0.0465 -0.0465 0.9989 1692.0194 2200.4246)" font-family="'ArialNarrow'" font-size="13.4042">La Viga</text>
-	<text transform="matrix(1 0.0072 -0.0072 1 1768.262 2275.5144)" font-family="'ArialNarrow'" font-size="13.4042">Iztacalco</text>
-	<text transform="matrix(1 0.0072 -0.0072 1 1777.9286 2308.8364)" font-family="'ArialNarrow'" font-size="13.4042">Apatlaco</text>
-	<text transform="matrix(1 0.0072 -0.0072 1 1784.9012 2356.3127)" font-family="'ArialNarrow'" font-size="13.4042">Aculco</text>
-	<text transform="matrix(1 0.0072 -0.0072 1 1783.0624 2402.1516)" font-family="'ArialNarrow'" font-size="13.4042">Escuadron 201</text>
-	<text transform="matrix(1 0.0072 -0.0072 1 1870.9446 2431.6516)" font-family="'ArialNarrow'" font-size="13.4042">Iztapalapa</text>
-	<text transform="matrix(1 0.0072 -0.0072 1 1917.7664 2452.8411)" font-family="'ArialNarrow'" font-size="13.4042">C. de la Estrella</text>
-	<text transform="matrix(1 0.0072 -0.0072 1 1908.6107 2494.3411)" font-family="'ArialNarrow'" font-size="13.4042">U.A.M. I</text>
-	<text transform="matrix(1 0.0072 -0.0072 1 1970.6107 2519.8411)" font-family="'ArialNarrow'" font-size="13.4042">Const. de 1917</text>
-	<text transform="matrix(1 0.0072 -0.0072 1 1804.0525 2462.759)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Atlalilco</text>
-	<g>
-		<path fill="#3E984C" d="M1656.496,2172.521c0-1.822-1.456-3.285-3.264-3.298l-5.891,5.89v3.265h3.302l5.853-5.853V2172.521z"/>
-		<path fill="#4C3430" d="M1653.21,2169.222h-5.868v5.891l5.891-5.89C1653.225,2169.223,1653.217,2169.222,1653.21,2169.222z"/>
-		<polygon fill="#005DB4" points="1656.496,2172.525 1650.644,2178.377 1656.496,2178.377 		"/>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 1641.5278 2177.7759)" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" font-family="'ArialNarrow-Bold'" font-size="13.4042">Chabacano</text>
-	<g>
-		<path fill="#B19A59" d="M1819.208,2450.151h9.155v-5.862c0-0.834-0.307-1.594-0.813-2.173L1819.208,2450.151z"/>
-		<path fill="#3E984C" d="M1819.208,2450.151v-9.156h5.863c0.989,0,1.876,0.434,2.479,1.121L1819.208,2450.151z"/>
-	</g>
+	<text transform="matrix(0.2638 -0.9646 0.9646 0.2638 1611.7667 2160.0481)" font-family="'ArialNarrow'" font-size="13.4042">Doctores</text>
+	<text transform="matrix(0.6617 -0.7498 0.7498 0.6617 1604.0229 2189.7378)" font-family="'ArialNarrow'" font-size="13.4042">Obrera</text>
+	<text transform="matrix(0.9989 0.0465 -0.0465 0.9989 1692.006 2200.3689)" font-family="'ArialNarrow'" font-size="13.4042">La Viga</text>
+	<text transform="matrix(1 0.0072 -0.0072 1 1768.219 2275.5425)" font-family="'ArialNarrow'" font-size="13.4042">Iztacalco</text>
+	<text transform="matrix(1 0.0072 -0.0072 1 1777.8857 2308.8647)" font-family="'ArialNarrow'" font-size="13.4042">Apatlaco</text>
+	<text transform="matrix(1 0.0072 -0.0072 1 1784.8584 2356.3411)" font-family="'ArialNarrow'" font-size="13.4042">Aculco</text>
+	<text transform="matrix(1 0.0072 -0.0072 1 1783.0195 2402.1797)" font-family="'ArialNarrow'" font-size="13.4042">Escuadron 201</text>
+	<text transform="matrix(1 0.0072 -0.0072 1 1870.9017 2431.6797)" font-family="'ArialNarrow'" font-size="13.4042">Iztapalapa</text>
+	<text transform="matrix(1 0.0072 -0.0072 1 1917.7234 2452.8694)" font-family="'ArialNarrow'" font-size="13.4042">C. de la Estrella</text>
+	<text transform="matrix(1 0.0072 -0.0072 1 1908.5677 2494.3694)" font-family="'ArialNarrow'" font-size="13.4042">U.A.M. I</text>
+	<text transform="matrix(1 0.0072 -0.0072 1 1970.5677 2519.8694)" font-family="'ArialNarrow'" font-size="13.4042">Const. de 1917</text>
 	<g>
 		<path fill="#008B65" d="M1618.549,2101.084h9.155v-5.863c0-0.834-0.307-1.594-0.813-2.172L1618.549,2101.084z"/>
 		<path fill="#CF79A4" d="M1618.549,2101.084v-9.156h5.863c0.99,0,1.876,0.433,2.479,1.121L1618.549,2101.084z"/>
 	</g>
 	
-		<text transform="matrix(-0.1368 -0.9906 0.9906 -0.1368 1641.1028 2167.0461)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Salto del Agua</text>
+		<text transform="matrix(-0.1368 -0.9906 0.9906 -0.1368 1641.1207 2167.0979)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Salto del Agua</text>
+</g>
+<g id="metro9">
+	
+		<polyline opacity="0.5" fill="none" stroke="#4C3430" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		1421.268,2211.076 1453.119,2210.306 1492.897,2209.305 1542.351,2200.369 1609.679,2192.069 1650.974,2174.028 1709.095,2182.416 
+		1756.525,2182.793 1804.053,2182.416 1855.977,2183.738 1898.915,2185.173 1931.576,2186.087 1959.585,2146.981 	"/>
+	<path fill="#4C3430" d="M1612.756,2187.567h-5.863v9.156h9.155v-5.862C1616.048,2189.036,1614.579,2187.567,1612.756,2187.567"/>
+	<path fill="#4C3430" d="M1757.81,2179.107h-5.863v9.156h9.155v-5.862C1761.102,2180.577,1759.634,2179.107,1757.81,2179.107"/>
+	<path fill="#4C3430" d="M1806.34,2177.213h-5.863v9.156h9.155v-5.862C1809.632,2178.683,1808.163,2177.213,1806.34,2177.213"/>
+	<path fill="#4C3430" d="M1858.264,2178.535h-5.863v9.156h9.155v-5.862C1861.556,2180.005,1860.087,2178.535,1858.264,2178.535"/>
+	<path fill="#4C3430" d="M1899.201,2180.791h-5.863v9.156h9.155v-5.862C1902.493,2182.261,1901.024,2180.791,1899.201,2180.791"/>
+	<text transform="matrix(0.9282 -0.3719 0.3719 0.9282 1564.4423 2201.8284)"><tspan x="0" y="0" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" font-family="'ArialNarrow'" font-size="13.4042">Lázaro</tspan><tspan x="0" y="11" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" font-family="'ArialNarrow'" font-size="13.4042">Cárdenas</tspan></text>
+	<text transform="matrix(0.9998 -0.0202 0.0202 0.9998 1742.4269 2178.8865)" font-family="'ArialNarrow'" font-size="13.4042">Mixiuhca</text>
+	<text transform="matrix(0.8656 0.5008 -0.5008 0.8656 1787.2327 2189.3809)" font-family="'ArialNarrow'" font-size="13.4042">Velódromo</text>
+	<text transform="matrix(0.9998 -0.0215 0.0215 0.9998 1842.1321 2196.6733)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Ciudad</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Deportiva</tspan></text>
+	<text transform="matrix(1 0.0078 -0.0078 1 1897.915 2201.2253)" font-family="'ArialNarrow'" font-size="13.4042">Puebla</text>
+	<g>
+		<path fill="#3E984C" d="M1655.772,2173.246c0-1.822-1.456-3.285-3.264-3.298l-5.891,5.89v3.265h3.302l5.853-5.853V2173.246z"/>
+		<path fill="#4C3430" d="M1652.486,2169.947h-5.868v5.891l5.891-5.89C1652.5,2169.948,1652.493,2169.947,1652.486,2169.947z"/>
+		<polygon fill="#005DB4" points="1655.772,2173.25 1649.919,2179.103 1655.772,2179.103 		"/>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 1640.8036 2178.501)" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" font-family="'ArialNarrow-Bold'" font-size="13.4042">Chabacano</text>
+	<g>
+		<path fill="#4C3430" d="M1704.517,2186.369h9.155v-5.863c0-0.834-0.307-1.594-0.813-2.172L1704.517,2186.369z"/>
+		<path fill="#A8C8BF" d="M1704.517,2186.369v-9.156h5.863c0.99,0,1.876,0.433,2.479,1.121L1704.517,2186.369z"/>
+	</g>
+	
+		<text transform="matrix(0.9398 -0.3417 0.3417 0.9398 1713.6427 2179.1379)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Jamaica</text>
+</g>
+<g id="metroA">
+	
+		<path opacity="0.5" fill="none" stroke="#882192" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M1959.585,2146.981l-13.723,37.705l17.403,8.438l64.717,38.031l71.038,30.779l44.869,36.258l97.732,67.555l44.713,33.992
+		c0,0,22.979,20.901,53.823,21.082c30.844,0.18,71.511,0,71.511,0H2468l18.631,32.05"/>
+	<path fill="#882192" d="M1965.63,2188.546h-5.863v9.155h9.154v-5.862C1968.921,2190.014,1967.453,2188.546,1965.63,2188.546"/>
+	<path fill="#882192" d="M2145.175,2293.752h-5.863v9.155h9.154v-5.862C2148.466,2295.221,2146.997,2293.752,2145.175,2293.752"/>
+	<path fill="#882192" d="M2242.906,2361.307h-5.863v9.155h9.154v-5.862C2246.198,2362.775,2244.729,2361.307,2242.906,2361.307"/>
+	<path fill="#882192" d="M2289.906,2396.161h-5.863v9.155h9.154v-5.862C2293.198,2397.629,2291.729,2396.161,2289.906,2396.161"/>
+	<path fill="#882192" d="M2341.442,2416.242h-5.863v9.155h9.154v-5.862C2344.733,2417.711,2343.264,2416.242,2341.442,2416.242"/>
+	<path fill="#882192" d="M2415.619,2416.242h-5.863v9.155h9.154v-5.862C2418.91,2417.711,2417.442,2416.242,2415.619,2416.242"/>
+	<path fill="#882192" d="M2489.349,2443.193h-12.393v19.352h19.35v-12.392C2496.306,2446.298,2493.203,2443.193,2489.349,2443.193"
+		/>
+	<text transform="matrix(1 0 0 1 2479.853 2459.4194)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">A</text>
+	<text transform="matrix(0.9996 0.0265 -0.0265 0.9996 1966.2659 2187.6907)" font-family="'ArialNarrow'" font-size="13.4042">Agrícola Oriental</text>
+	<text transform="matrix(0.9996 0.0265 -0.0265 0.9996 2148.6606 2296.8284)" font-family="'ArialNarrow'" font-size="13.4042">Guelatao</text>
+	<text transform="matrix(0.9996 0.0265 -0.0265 0.9996 2175.6177 2374.7454)" font-family="'ArialNarrow'" font-size="13.4042">Peñon Viejo</text>
+	<text transform="matrix(0.9996 0.0265 -0.0265 0.9996 2248.5474 2412.2273)" font-family="'ArialNarrow'" font-size="13.4042">Acatitla</text>
+	<text transform="matrix(0.9996 0.0265 -0.0265 0.9996 2314.8806 2436.7869)" font-family="'ArialNarrow'" font-size="13.4042">Santa Marta</text>
+	<text transform="matrix(0.9996 0.0265 -0.0265 0.9996 2383.5474 2412.2273)" font-family="'ArialNarrow'" font-size="13.4042">Los Reyes</text>
+	<text transform="matrix(0.9996 0.0265 -0.0265 0.9996 2468.2141 2474.9246)" font-family="'ArialNarrow'" font-size="13.4042">La Paz</text>
 </g>
 <g id="metroB">
 	<g opacity="0.5">
@@ -3619,10 +3658,10 @@
 	</g>
 	<g>
 		<polygon fill="#3E984C" points="1629.705,1983.679 1629.705,1994.202 1639.78,1984.11 		"/>
-		<path fill="#3A8244" d="M1649.248,1984.461v-2.762c0-1.954-0.784-3.715-2.055-4.987l-7.757,7.759"/>
-		<polyline fill="#B1B0B0" points="1639.436,1984.471 1629.705,1994.202 1649.248,1994.202 1649.248,1984.461 		"/>
+		<path fill="#3A8244" d="M1649.248,1984.462v-2.762c0-1.954-0.784-3.715-2.055-4.987l-7.757,7.759"/>
+		<polyline fill="#B1B0B0" points="1639.436,1984.471 1629.705,1994.202 1649.248,1994.202 1649.248,1984.462 		"/>
 		<g>
-			<path fill="#3E984C" d="M1647.193,1976.712L1647.193,1976.712c-1.269-1.271-3.025-2.053-4.974-2.053h-12.514v9.836h9.708
+			<path fill="#3E984C" d="M1647.193,1976.712L1647.193,1976.712c-1.269-1.271-3.025-2.053-4.974-2.053h-12.513v9.836h9.708
 				L1647.193,1976.712z"/>
 		</g>
 	</g>
@@ -3635,6 +3674,98 @@
 		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1696.199" y1="2004.719" x2="1720.531" y2="1968.333"/>
 	<text transform="matrix(1 0 0 1 1630.4875 1988.7141)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="11.1576">8-B</text>
 	<text transform="matrix(0.6601 -0.7512 0.7512 0.6601 1639.4771 1975.1061)"><tspan x="0" y="0" font-family="'ArialNarrow-Bold'" font-size="13.4042">Garibaldi</tspan><tspan x="0" y="11" font-family="'ArialNarrow-Bold'" font-size="13.4042">Laguinilla</tspan></text>
+</g>
+<g id="metro12">
+	
+		<path opacity="0.5" fill="none" stroke="#A4832D" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M1402.813,2349.143l35.729,8.944l39.011,9.424l21.143-9.511l56.84,36.495c0,0,6.374,25.128,26.669,23.567
+		s37.273-1.053,37.273-1.053l102.987,15.577l101.321,12.914l-30.921,66.278l-1.475,46.854c0,0,30.595,23.104,32.853,34.736
+		l41.342-0.041l44.241,6.7l36.611,24.659l43.378,6.584l44.791,7.825l41.492,7.814l39.018,6.742l21.424,47.237"/>
+	<path fill="#A4832D" d="M1435.088,2352.75h-5.863v9.155h9.154v-5.862C1438.379,2354.219,1436.91,2352.75,1435.088,2352.75"/>
+	<path fill="#A4832D" d="M1478.839,2361.842h-5.863v9.155h9.154v-5.862C1482.13,2363.311,1480.661,2361.842,1478.839,2361.842"/>
+	<path fill="#A4832D" d="M1556.822,2389.917h-5.863v9.155h9.154v-5.862C1560.113,2391.386,1558.645,2389.917,1556.822,2389.917"/>
+	<path fill="#A4832D" d="M1583.409,2411.644h-5.863v9.156h9.154v-5.862C1586.7,2413.113,1585.231,2411.644,1583.409,2411.644"/>
+	<path fill="#A4832D" d="M1723.751,2427.102h-5.863v9.156h9.154v-5.862C1727.042,2428.571,1725.573,2427.102,1723.751,2427.102"/>
+	<path fill="#A4832D" d="M1794.949,2506.88h-5.863v9.155h9.154v-5.862C1798.24,2508.349,1796.771,2506.88,1794.949,2506.88"/>
+	<path fill="#A4832D" d="M1794.151,2554.054h-5.863v9.155h9.154v-5.862C1797.442,2555.522,1795.973,2554.054,1794.151,2554.054"/>
+	<path fill="#A4832D" d="M1825.459,2587.592h-5.863v9.155h9.154v-5.862C1828.75,2589.061,1827.281,2587.592,1825.459,2587.592"/>
+	<path fill="#A4832D" d="M1869.208,2588.681h-5.863v9.155h9.154v-5.862C1872.499,2590.15,1871.03,2588.681,1869.208,2588.681"/>
+	<path fill="#A4832D" d="M1910.033,2595.375h-5.863v9.155h9.154v-5.862C1913.324,2596.844,1911.855,2595.375,1910.033,2595.375"/>
+	<path fill="#A4832D" d="M1945.573,2620.18h-5.863v9.155h9.154v-5.862C1948.865,2621.649,1947.396,2620.18,1945.573,2620.18"/>
+	<path fill="#A4832D" d="M1993.437,2626.624h-5.863v9.155h9.154v-5.862C1996.729,2628.092,1995.26,2626.624,1993.437,2626.624"/>
+	<path fill="#A4832D" d="M2035.891,2634.518h-5.863v9.155h9.154v-5.862C2039.183,2635.986,2037.714,2634.518,2035.891,2634.518"/>
+	<path fill="#A4832D" d="M2077.384,2642.332h-5.863v9.155h9.154v-5.862C2080.675,2643.8,2079.206,2642.332,2077.384,2642.332"/>
+	<path fill="#A4832D" d="M2116.077,2649.073h-5.863v9.155h9.154v-5.862C2119.368,2650.542,2117.899,2649.073,2116.077,2649.073"/>
+	<g>
+		<path fill="#A4832D" d="M1393.15,2358.807h19.326v-12.377c0-1.76-0.648-3.364-1.718-4.585L1393.15,2358.807z"/>
+		<path fill="#DB963E" d="M1393.15,2358.807v-19.328h12.377c2.089,0,3.959,0.913,5.231,2.366L1393.15,2358.807z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1348.5573 2353.1899)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Mixcoac</text>
+	</g>
+	<g>
+		<text transform="matrix(0.2767 -0.9609 0.9609 0.2767 1423.5355 2352.7495)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Insurgentes</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Sur</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0.9566 0.2913 -0.2913 0.9566 1473.5848 2374.1191)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Hospital 20</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">de noviembre</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 1552.8484 2377.1187)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Parque de</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">los Venados</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 1691.0057 2448.2627)" font-family="'ArialNarrow'" font-size="13.4042">Mexicaltzingo</text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 1799.8104 2517.0352)" font-family="'ArialNarrow'" font-size="13.4042">Culhuacán</text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 1796.4415 2548.9561)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">San Andres</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Tomatlán</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 1746.4415 2596.7463)" font-family="'ArialNarrow'" font-size="13.4042">Lomas Estrella</text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 1850.8254 2587.2444)" font-family="'ArialNarrow'" font-size="13.4042">Calle 11</text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 1897.9153 2594.2588)" font-family="'ArialNarrow'" font-size="13.4042">Periférico Ote.</text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 1923.7102 2640.095)" font-family="'ArialNarrow'" font-size="13.4042">Tezonco</text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 1977.3646 2647.9089)" font-family="'ArialNarrow'" font-size="13.4042">Olivos</text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 2012.183 2657.2285)" font-family="'ArialNarrow'" font-size="13.4042">Nopalera</text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 2059.167 2638.0952)" font-family="'ArialNarrow'" font-size="13.4042">Zapotitlán</text>
+	</g>
+	<g>
+		<text transform="matrix(1 -0.0081 0.0081 1 2118.8884 2658.228)" font-family="'ArialNarrow'" font-size="13.4042">Tlaltenco</text>
+	</g>
+	<text transform="matrix(1 0 0 1 1392.8496 2355.6658)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="17.6508">12</text>
+	<g>
+		<path fill="#A4832D" d="M1494.252,2362.281h9.155v-5.863c0-0.834-0.307-1.594-0.814-2.172L1494.252,2362.281z"/>
+		<path fill="#889338" d="M1494.252,2362.281v-9.156h5.863c0.99,0,1.876,0.433,2.478,1.121L1494.252,2362.281z"/>
+	</g>
+	
+		<text transform="matrix(0.9998 -0.0216 0.0216 0.9998 1506.4969 2364.3511)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Zapata</text>
+	<g>
+		<path fill="#A4832D" d="M1614.775,2421.349h9.155v-5.862c0-0.834-0.307-1.594-0.813-2.173L1614.775,2421.349z"/>
+		<path fill="#006EB3" d="M1614.775,2421.349v-9.156h5.863c0.989,0,1.876,0.434,2.479,1.121L1614.775,2421.349z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 1624.925 2413.314)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Ermita</text>
+	<text transform="matrix(1 0.0072 -0.0072 1 1803.4628 2437.7866)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Atlalilco</text>
+	<g>
+		<path fill="#A4832D" d="M1818.662,2450.101h9.155v-5.862c0-0.834-0.307-1.594-0.813-2.173L1818.662,2450.101z"/>
+		<path fill="#3E984C" d="M1818.662,2450.101v-9.156h5.863c0.989,0,1.876,0.434,2.479,1.121L1818.662,2450.101z"/>
+	</g>
+	<path fill="#A4832D" d="M2137.597,2691.212h-12.393v19.352h19.35v-12.392C2144.554,2694.316,2141.45,2691.212,2137.597,2691.212"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2125.2046 2708.0579)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="17.6508">12</text>
+	</g>
 </g>
 <g id="metrobus1">
 	
@@ -3741,10 +3872,10 @@
 	<text transform="matrix(1 0 0 1 1471.1606 2296.8291)" font-family="'ArialNarrow'" font-size="13.4042">La Piedad</text>
 	<text transform="matrix(1 0 0 1 1463.9448 2319.8291)" font-family="'ArialNarrow'" font-size="13.4042">Poliforum</text>
 	<text transform="matrix(1 0 0 1 1453.292 2347.5781)" font-family="'ArialNarrow'" font-size="13.4042">Napoles</text>
-	<text transform="matrix(1 0 0 1 1436.0811 2365.7461)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Col.</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">del Valle</tspan></text>
+	<text transform="matrix(1 0 0 1 1381.0811 2374.7461)" font-family="'ArialNarrow'" font-size="13.4042">Col. del Valle</text>
 	<text transform="matrix(1 0 0 1 1323.0474 2392.9951)" font-family="'ArialNarrow'" font-size="13.4042">Ciudad de los Deportes</text>
-	<text transform="matrix(-0.0309 0.9995 -0.9995 -0.0309 1430.8679 2407.7383)" font-family="'ArialNarrow'" font-size="13.4042">Parque Hundido</text>
-	<text transform="matrix(1 0 0 1 1360.6011 2439.7402)" font-family="'ArialNarrow'" font-size="13.4042">Félix Cuevas</text>
+	<text transform="matrix(-0.0309 0.9995 -0.9995 -0.0309 1430.8628 2407.707)" font-family="'ArialNarrow'" font-size="13.4042">Parque Hundido</text>
+	<text transform="matrix(1 0 0 1 1353.6011 2438.7402)" font-family="'ArialNarrow'" font-size="13.4042">Félix Cuevas</text>
 	<text transform="matrix(1 0 0 1 1329.6011 2460.3057)" font-family="'ArialNarrow'" font-size="13.4042">Río Churubusco</text>
 	<text transform="matrix(1 0 0 1 1311.1011 2483.2588)" font-family="'ArialNarrow'" font-size="13.4042">Teatro Insurgentes</text>
 	<text transform="matrix(1 0 0 1 1299.6011 2502.5439)" font-family="'ArialNarrow'" font-size="13.4042">José María Velazco</text>
@@ -3831,8 +3962,6 @@
 		c0-1.415,1.148-2.562,2.562-2.562h3.914c1.415,0,2.562,1.146,2.562,2.562V2181.177z"/>
 	<path fill="#8D4697" d="M1423.786,2147.123c0,1.415-1.147,2.562-2.562,2.562h-3.914c-1.414,0-2.562-1.147-2.562-2.562v-3.914
 		c0-1.415,1.148-2.562,2.562-2.562h3.914c1.415,0,2.562,1.147,2.562,2.562V2147.123z"/>
-	<path fill="#8D4697" d="M1447.088,2216.785c0,1.415-1.147,2.562-2.562,2.562h-3.914c-1.414,0-2.562-1.147-2.562-2.562v-3.914
-		c0-1.415,1.148-2.562,2.562-2.562h3.914c1.415,0,2.562,1.147,2.562,2.562V2216.785z"/>
 	<path fill="#8D4697" d="M1459.943,2242.634c0,1.415-1.147,2.562-2.562,2.562h-3.914c-1.414,0-2.562-1.146-2.562-2.562v-3.914
 		c0-1.415,1.148-2.562,2.562-2.562h3.914c1.415,0,2.562,1.146,2.562,2.562V2242.634z"/>
 	<path fill="#8D4697" d="M1500.898,2266.832c0,1.415-1.146,2.562-2.562,2.562h-3.914c-1.415,0-2.562-1.147-2.562-2.562v-3.914
@@ -3902,8 +4031,7 @@
 	</g>
 	<text transform="matrix(1 0 0 1 1312.7026 2185.1729)" font-family="'ArialNarrow'" font-size="13.4042">Parque Lira</text>
 	<text transform="matrix(1 0 0 1 1380.7026 2171.4971)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Antonio</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Maceo</tspan></text>
-	<text transform="matrix(0.8916 -0.4528 0.4528 0.8916 1400.7344 2245.7656)" font-family="'ArialNarrow'" font-size="13.4042">Patriotismo</text>
-	<text transform="matrix(0.974 -0.2265 0.2265 0.974 1430.8684 2242.8438)" font-family="'ArialNarrow'" font-size="13.4042">Escandón</text>
+	<text transform="matrix(0.974 -0.2265 0.2265 0.974 1423.535 2250.6875)" font-family="'ArialNarrow'" font-size="13.4042">Escandón</text>
 	<text transform="matrix(1 -0.0088 0.0088 1 1485.9761 2277.658)" font-family="'ArialNarrow'" font-size="13.4042">Viaducto</text>
 	<text transform="matrix(1 -0.0014 0.0014 1 1472.3033 2245.4478)" font-family="'ArialNarrow'" font-size="13.4042">Amores</text>
 	<text transform="matrix(0.0594 0.9982 -0.9982 0.0594 1571.7782 2250.8125)" font-family="'ArialNarrow'" font-size="13.4042">Dr. Vertiz</text>
@@ -3912,7 +4040,7 @@
 	<text transform="matrix(0.2697 -0.9629 0.9629 0.2697 1425.7218 2140.4658)" font-family="'ArialNarrow'" font-size="13.4042">De la Salle</text>
 	<text transform="matrix(1 0 0 1 1630.8223 2252.1353)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Xola</text>
 	<text transform="matrix(0 1 -1 0 1666.8574 2187.7886)" font-family="'ArialNarrow'" font-size="13.4042">Las Américas</text>
-	<text transform="matrix(1 0 0 1 1862.707 2222.1421)" font-family="'ArialNarrow'" font-size="13.4042">Iztacalco</text>
+	<text transform="matrix(1 0 0 1 1861.707 2229.1421)" font-family="'ArialNarrow'" font-size="13.4042">Iztacalco</text>
 	<text transform="matrix(1 0 0 1 1885.5117 2243.8062)" font-family="'ArialNarrow'" font-size="13.4042">UPIICSA</text>
 	<text transform="matrix(1 0 0 1 1851.0117 2276.4692)" font-family="'ArialNarrow'" font-size="13.4042">El Rodeo</text>
 	<text transform="matrix(1 0 0 1 1985.5215 2272.1069)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Const. de</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Apatzingán</tspan></text>
@@ -3922,17 +4050,17 @@
 	<text transform="matrix(0 -1 1 0 2000.3237 2399.7383)" font-family="'ArialNarrow'" font-size="13.4042">Leyes de Reforma</text>
 	<text transform="matrix(1 0 0 1 2062.5215 2229.3384)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Nicolás</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Bravo</tspan></text>
 	<text transform="matrix(1 0 0 1 2116.8887 2267.8755)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Tepalcates</text>
-	<text transform="matrix(1 0 0 1 2064.2891 2312.8296)" font-family="'ArialNarrow'" font-size="13.4042">Gral. A de León</text>
-	<text transform="matrix(1 0 0 1 2017.6953 2327.9321)" font-family="'ArialNarrow'" font-size="13.4042">CCH Oriente</text>
+	<text transform="matrix(1 0 0 1 2039.2891 2312.8296)" font-family="'ArialNarrow'" font-size="13.4042">Gral. A de León</text>
+	<text transform="matrix(-1.346898e-10 -1 1 -1.346898e-10 2026.4823 2380.4082)" font-family="'ArialNarrow'" font-size="13.4042">CCH Oriente</text>
 	<text transform="matrix(1 0 0 1 2001.3242 2211.0767)"><tspan x="0" y="0" font-family="'ArialNarrow-Bold'" font-size="13.4042">Canal de</tspan><tspan x="0" y="11" font-family="'ArialNarrow-Bold'" font-size="13.4042">Sn. Juan</tspan></text>
 	<text transform="matrix(0 -1 1 0 1978.8315 2343.9121)" font-family="'ArialNarrow'" font-size="13.4042">Del Moral</text>
-	<text transform="matrix(0.5673 -0.8235 0.8235 0.5673 1963.2656 2234.8494)" font-family="'ArialNarrow'" font-size="13.4042">Río Frío</text>
+	<text transform="matrix(0.9996 0.0265 -0.0265 0.9996 1942.7268 2229.1414)" font-family="'ArialNarrow'" font-size="13.4042">Río Frío</text>
 	<text transform="matrix(1 -0.007 0.007 1 1737.4803 2248.2861)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Coyuya</text>
 	<text transform="matrix(0.6098 0.7925 -0.7925 0.6098 1774.5526 2217.208)" font-family="'ArialNarrow'" font-size="13.4042">Canela</text>
 	<text transform="matrix(0.6098 0.7925 -0.7925 0.6098 1804.0526 2232.5947)" font-family="'ArialNarrow'" font-size="13.4042">Tlacotal</text>
 	<text transform="matrix(0.6098 0.7925 -0.7925 0.6098 1829.871 2233.8057)" font-family="'ArialNarrow'" font-size="13.4042">Goma</text>
 	<text transform="matrix(0 1 -1 0 1692.0234 2252.2549)" font-family="'ArialNarrow'" font-size="13.4042">Andres Mólina</text>
-	<text transform="matrix(0.094 0.9956 -0.9956 0.094 1712.4283 2254.2493)" font-family="'ArialNarrow-Bold'" font-size="13.4042">La Viga</text>
+	<text transform="matrix(0.094 0.9956 -0.9956 0.094 1712.4408 2254.2339)" font-family="'ArialNarrow-Bold'" font-size="13.4042">La Viga</text>
 	<path fill="#3E984C" d="M1756.78,2228.332h-5.862v9.154h9.154v-5.861C1760.072,2229.801,1758.604,2228.332,1756.78,2228.332"/>
 	<path fill="#8D4697" d="M1753.229,2234.866c0,1.415-1.146,2.562-2.562,2.562h-3.914c-1.416,0-2.563-1.147-2.563-2.562v-3.915
 		c0-1.414,1.147-2.562,2.563-2.562h3.914c1.415,0,2.562,1.147,2.562,2.562V2234.866z"/>
@@ -3944,6 +4072,7 @@
 	<path fill="#8D4697" d="M2099.557,2266.163c0,3.06-2.479,5.538-5.537,5.538h-8.459c-3.059,0-5.539-2.479-5.539-5.538v-8.46
 		c0-3.058,2.48-5.537,5.539-5.537h8.459c3.059,0,5.537,2.479,5.537,5.537V2266.163z"/>
 	<text transform="matrix(1 0 0 1 1401.7314 2217.6548)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">2</text>
+	<text transform="matrix(1 0 0 1 1416.3326 2217.6548)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">9</text>
 	<text transform="matrix(1 0 0 1 2083.853 2268.5024)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="19.0206">2</text>
 	<path fill="#CF79A4" d="M1436.731,2157.342h-5.863v9.155h9.155v-5.862C1440.023,2158.811,1438.555,2157.342,1436.731,2157.342"/>
 	<text transform="matrix(1 0 0 1 1431.4048 2166.2412)" font-family="'ArialNarrow'" font-size="13.4042">Juanacatlán</text>
@@ -3955,7 +4084,12 @@
 	<text transform="matrix(1 0 0 1 1422.7302 2268.5024)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Nvo. León</text>
 	<path fill="#DB963E" d="M1403.139,2149.454h-5.863v9.156h9.155v-5.862C1406.431,2150.924,1404.963,2149.454,1403.139,2149.454"/>
 	
-		<text transform="matrix(0.9131 -0.4077 0.4077 0.9131 1724.1398 2219.9246)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Santa Anita</text>
+		<text transform="matrix(0.9131 -0.4077 0.4077 0.9131 1724.1675 2219.9099)" font-family="'ArialNarrow-Bold'" font-size="13.4042">Santa Anita</text>
+	<path fill="#4C3430" d="M1446.19,2205.73h-5.863v9.156h9.155v-5.862C1449.482,2207.2,1448.014,2205.73,1446.19,2205.73"/>
+	<path fill="#8D4697" d="M1443.061,2212.266c0,1.415-1.147,2.562-2.562,2.562h-3.914c-1.414,0-2.562-1.147-2.562-2.562v-3.914
+		c0-1.415,1.148-2.562,2.562-2.562h3.914c1.415,0,2.562,1.147,2.562,2.562V2212.266z"/>
+	
+		<text transform="matrix(0.7829 -0.6222 0.6222 0.7829 1403.6959 2251.2551)" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" font-family="'ArialNarrow-Bold'" font-size="13.4042">Patriotismo</text>
 </g>
 <g id="metrobus3">
 	
@@ -4251,7 +4385,7 @@
 	<text transform="matrix(0.9999 0.0171 -0.0171 0.9999 1490.9249 2066.0967)" font-family="'ArialNarrow'" font-size="13.4042">Expo Reforma</text>
 	<text transform="matrix(1 0.0026 -0.0026 1 1507.1162 2088.3411)" font-family="'ArialNarrow'" font-size="13.4042">Vocacional 5</text>
 	<text transform="matrix(0.9774 -0.2115 0.2115 0.9774 1411.0179 2061.7056)"><tspan x="0" y="0" font-family="'ArialNarrow'" font-size="13.4042">Mercado de</tspan><tspan x="0" y="11" font-family="'ArialNarrow'" font-size="13.4042">Sn. Juan</tspan><tspan x="0" y="22" font-family="'ArialNarrow'" font-size="13.4042">MetroBus L4</tspan></text>
-	<text transform="matrix(0.9454 0.326 -0.326 0.9454 1779.7067 2155.2993)" font-family="'ArialNarrow'" font-size="13.4042">Mercado de Sonora</text>
+	<text transform="matrix(1 -0.0043 0.0043 1 1786.5077 2173.3379)" font-family="'ArialNarrow'" font-size="13.4042">Mercado de Sonora</text>
 	<text transform="matrix(0.9454 0.326 -0.326 0.9454 1770.5511 2140.5132)" font-family="'ArialNarrow'" font-size="13.4042">Cecilio Robelo</text>
 	<text transform="matrix(0.9591 0.2829 -0.2829 0.9591 1727.4823 2116.5881)" font-family="'ArialNarrow'" font-size="13.4042">Hospital Balbuena</text>
 	<text transform="matrix(0.9646 -0.2637 0.2637 0.9646 1798.9154 2087.3767)" font-family="'ArialNarrow'" font-size="13.4042">Eduardo Molina</text>
@@ -4310,8 +4444,8 @@
 		1643.535,2163.63 1625.552,2192.069 	"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1695.506" y1="2071.178" x2="1664.617" y2="2087.967"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1710.856" y1="2125.111" x2="1783.062" y2="2149.926"/>
+	<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1710.856,2125.111 1743.892,2141.333 
+		1768.219,2141.333 1802.935,2166.521 	"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="1773.39" y1="2135.346" x2="1727.376" y2="2122.111"/>
 	
@@ -6052,7 +6186,7 @@ eU+EnyoPUr0p2H//2Q==" transform="matrix(1.3122 0 0 1.3122 1967.453 865.9605)">
 						<use xlink:href="#SVGID_3_"  overflow="visible"/>
 					</clipPath>
 					
-						<radialGradient id="SVGID_5_" cx="0" cy="0" r="1" gradientTransform="matrix(66.0082 0 0 -66.0945 391.2889 397.3847)" gradientUnits="userSpaceOnUse">
+						<radialGradient id="SVGID_5_" cx="0" cy="0" r="1" gradientTransform="matrix(66.0082 0 0 -66.0945 391.2743 397.3825)" gradientUnits="userSpaceOnUse">
 						<stop  offset="0" style="stop-color:#FFFFFF"/>
 						<stop  offset="0.2661" style="stop-color:#F3DBBD"/>
 						<stop  offset="0.5143" style="stop-color:#E8BD86"/>
@@ -6589,41 +6723,41 @@ m7s3CdVTlOgM+C4B6LYXoBCsH2W6HKDvp38EGADpieiQyC3/MQAAAABJRU5ErkJggg==" transform=
 		<g opacity="0.37">
 			
 				<image overflow="visible" width="170" height="135" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAACICAYAAACY0BuBAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAB45JREFUeNrsnVtzFEUYhjsHkpAj
-UGASwIgHQMAbtEpv/E/+Fv+LV54uLC0LxENZCoolWAEElBIhEDlkE/vLvu22UzPZnewhPbPPU/VV
-NlkSYPLsu9909/Q4BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw
-bDx87+Xtgt4ywiHoqaQjOqaj+tKm1fz71zk4yJqcqGO+Jn1NSdR/fD1D2N4wziHoqaizvl7wdUii
-3vZ139eWCpB1b/tTve1P+zrm65yvRYm67mvN1wZHCllTaaX2KU1f9/W2r4MS+GrUvwKy7vnb/7je
-/l/09YaS1QS9ptYAegSv+t6Jek5lrcB+/TH6VGRNStQVX+d9vePrlK85X099PQ4jARwxZE1F1Ld8
-vSthlyTnn77uStgGRw1ZUxL1TbUC00rVexL2seSlHeAEKxlRV/R1hqhI1uRFndPzdvY/4+uwryN6
-bMeYmUJkTUrUkUhW610X9ZjhK2RNStT4eE7qz8/qMccYWZMTNRASdpy3f2RNWdT4uI6pOMbImrSo
-E1ErYI9HWYzdPQxdtSQNb+HdiBovFVxS2RqBR47xVpK1h2kaFk4v+DqxC1EDQdZl11wnsEAo9IaR
-IZc0TkObfbJlfmFRis31ny8pqlN62jrWX3195OsDX9/7euCrwRUDtAG7TVN7Z9mnJDzq67RrrZ6y
-tanH9VzZ42Q/84C+32pVAtMKkKw9SdOzess/K8EO6fndvKBt8YpdIXDF14cqe/yQdCVZe5Wmp9Vr
-/ncW38W5wJROsE76+sXXHde8Lot0JVl7mqZjPTg2DSXpFfWupCvJ2pGkg0jTvHTdr59NupKsHUtq
-0thFfMf6nKakK8nalaQHlG725ClJ2q80JV1J1o4EdQWSnpCkJyXscp/TtChdf1K6fqx0/VvpirB1
-ljVH0HHVpCRdypF0Sc9NS+hBzd6ZjHbhoG16cUmyfunrN6drtGgHatYGtBHUZpgWlJjWh76WI+n+
-SNKRAQdC2ATD2o+/VA9d6+pX0rXKyZqRs52gYR5+SbKuJCBplg299VsL8KmvT/TYpmE3aAcqJmtO
-eo5FFVbg5wl6VHVIz8+75qB8CpLG7cBTnWBdkqwX1A6s0b9WSNZob9NxSRbSc1bpOCcx8wSd1/OT
-+t4xl+aFevaWb8sFVyXsZ76+0uf0r1XoWaNEnYqS87DSc1lfW5Cky20ETbm9iXcbtLbgiVL1Ef1r
-dU6wwlSoyfeKa654MoNfUnrO65ccX4hXFUHzjvmcemubQburMmEb/oVL/1qB0YCw+OOIzubPSFbb
-nHdGco5XVNAsYYF2WDt7J8hqHxG2WJCU+rknGtaxMck/dPa8rl/iaKYXrfKEhv3bJ1xrT9d4off2
-+ln18JBgsm651hrQazprtr2ibrnmwH4K46X96l+P6/8eJ+kqCZv+aEAYS512xdOlezUT1S829CI1
-Qb/x9bmvr4OwjjHY9GTNjAqkOMePsMhaWtqi1VNVbw0QtoqytpE2uy71jD4/WIN+FmGrKusO0oYV
-/3HC1uUkrK2wdjI2jDNdlfpFFlxLFbcGO620qtL/N0/Yb33dkLDPXfOuhVvImr60nZ6EmbQ2TZv6
-moF2wpqotujlRwlrY9Hb48/DJGxlz6A7HDl41TVniVJejdVOWEvSm655pYHJ+oMe3xq2PrZOl7Vk
-pbVUXZGsKa9z7UTYdaXpTcl6QWk7VH1sbab0CqSdk5idXkGQ6jGxqehnEvOGRP1i2PrY2s0/Z6Qd
-c621sTtdm1WFvjaekh7KPra2iyVKXPVatb62oz62jm3BsG0f1E1fm9LxyutjL/r6rs5twVAtQ9tl
-X5tqixD3sTclam5bUJeUHco1kyX62nYtwl4fw7iPvRW1BVY/+/q9TinLztfFfe1OLUJe2u7l8cy2
-BZddc+brcp1SltXo5VuEOG1TumgxbgtuK1kLU7aK0iJruRZhMZO2nVwOPsjjHNqCopS1VuG+a24M
-V7nWAFnLtwhx2hZttLHX4ualrMl61TUvG7pdxdYAWbtL26ItjFIQN5uyJuj1jLiVag2Qtbu07WTv
-rTxxJ9z/t0bqp7ybknFdLYC1Aleq2Bog6+DFXZK01lLEt8zsp7xbkbSVbQ2QdfDihqGvBZ2wlZG3
-299b6dYgpZRF1sGLm91orp28M/revN0VR3f5e81rDfLGZq01SGZhDPcU7TF669ySuI3ozPyJEive
-wvNah/LORnJOFEjsSsq8T3/nlH7WtCrM1FnahvsfJCErybo3iZuVKt5/NivvomvdkjPskZWVOP6Z
-7WTO0pCQtgPOql5AtjDGliDa/WfDZsck6zAmbiZ1n+tLJsxaTvLOuNYdZeLbwy9GsgYh28lcJOua
-+tcbStN7rrmF0yYnWFA2eUcLkjN7W6R2MhedcFl7clfCPtDn9nH7vgf+hbaJrFBG3k560nYyF51s
-WU/9WJI+lcAb+riZyhAWstZH4jInWHnCNoKccfKmNNaKrMMn805scU8DAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANg1/wowACv+2CGWZHkQAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 418.4746 3720.4473)">
+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
+/CvAAK3L1NIHMNkZAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 418.4746 3720.4473)">
 			</image>
 		</g>
 		<text transform="matrix(1.1429 0 0 1 378.0029 3736.3516)" fill="#FFFFFF" font-family="'TIPOGRAFIAMETRO'" font-size="68.8754">DF</text>
